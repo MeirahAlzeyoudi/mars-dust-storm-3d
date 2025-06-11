@@ -28,8 +28,13 @@ The project generates:
 - Time-based overlays of atmospheric activity
 - Annotated maps and profiles for presentation and analysis
 
+## Thesis Document
+You can read the full thesis here:  
+🔗 [The Three Dimensional Visualization of Mars Dust Storms – Meirah Ali Alzeyoudi (UAEU)](https://scholarworks.uaeu.ac.ae/all_theses/1055/)
+
 ## About
 Thesis project submitted for the Master's in Space Science at UAEU. Created by **Meirah Ali Alzeyoudi**.
 
 ## License
 MIT License
+

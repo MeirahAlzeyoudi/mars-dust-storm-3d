@@ -31,10 +31,34 @@ The project generates:
 ## Thesis Document
 You can read the full thesis here:  
 🔗 [The Three Dimensional Visualization of Mars Dust Storms – Meirah Ali Alzeyoudi (UAEU)](https://scholarworks.uaeu.ac.ae/all_theses/1055/)
+# The Three-Dimensional Visualization of Dust Storm Heights
+
+This repository contains:
+
+- A Python script for 3D visualization of dust storm height distributions.
+- A script to generate contour maps of dust storm heights.
+- Links to QGIS visualizations for May 20, 2020, and June 6, 2021.
+
+---
+
+## 1. 3D Dust Storm Height Visualization
+
+**Python Script:** `duststorm_3d_plot.py`
+
+## 2. Contour Map of Dust Heights
+
+**Python Script:** `duststorm_contour_map.py`
+
+---
+
+## 3. QGIS Video Results
+
+- **May 20, 2020**: [QGIS HTML Result](file:///C:/Users/user/OneDrive/Desktop/New%20folder%20(2)/index.html)  
+- **June 6, 2021**: [QGIS HTML Result](file:///C:/Users/user/OneDrive/Desktop/3dV/results/3d%20result/index.html)
+
 
 ## About
 Thesis project submitted for the Master's in Space Science at UAEU. Created by **Meirah Ali Alzeyoudi**.
 
-## License
-MIT License
+
 
